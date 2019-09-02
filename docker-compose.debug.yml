@@ -1,7 +1,7 @@
 version: '2.1'
 
 services:
-  angular7-docker:
+  devops-web-angular:
     image: devops-web-angular
     build: .
     environment:
