@@ -14,4 +14,3 @@ RUN npm install
 
 EXPOSE 4200 4915
 
-CMD ng serve
