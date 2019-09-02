@@ -14,4 +14,4 @@ RUN npm install
 
 EXPOSE 4200 4915
 
-ENTRYPOINT npm start
+CMD ng serve
